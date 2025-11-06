@@ -205,5 +205,10 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+Recently, I went to renew my Nigerian passport, and while filling out the application, I noticed the system still had my marital status as single, even though I have since changed my name and believe my marital status should have been changed in their database a long time ago. I paused for a bit, wondering if I should change it or just leave it. I worried that if I change it, the system might not verify it and might lead to a delay in my renewal. It felt strange that something so small as marital status could create that much worry. Life changes, names change, people grow but the system does not always change with you mostly due to human error or just a deliberate action, hard to tell. It made me realize how rigid these systems can be and how much power they hold over people’s lives just as it did with Riz in the article.
+
+This article also made me think about my research on maternal health equity here in Canada. When I first started, I was eager to collect race-based data, thinking it would be straightforward. Then I learned that hospitals here do not actually collect race data. At first, I was surprised, but later I understood from the literature I have read that it reflects a deeper value system, one that claims fairness by being “colorblind.” But if the system refuses to see race, it also refuses to see inequities. How can we talk about improving outcomes for all if we do not even know who is being affected?
+
+I believe databases are not neutral so far they are created by people. The choices of what to include or exclude, what to verify, and what to ignore all say something about what and who is valued and this often create embedded biases with the system built whether it is database or other technological tools. Fairness in data should not  just mean accuracy,  it should also mean seeing people as they are, in all their complexity and spectrum and incorporate those.
+
 ```
